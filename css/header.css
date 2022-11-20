@@ -1,0 +1,17 @@
+.header {
+    padding-top: 20px;
+}
+
+.header__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+}
+
+.header__preveiw {
+    justify-self: center;
+}
+
+.header__nav {
+    justify-self: end;
+}
